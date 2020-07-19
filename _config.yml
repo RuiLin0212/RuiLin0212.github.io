@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui LIN / Site Title"
+title                    : "Rui LIN's Homepage"
 title_separator          : "-"
 name                     : &name "Rui LIN"
 description              : &description "personal description"
@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. Student,<br> Dept. of EEE,<br> The University of Hong Kong."
   location         : "CYC806, Pokfulam Road, Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,17 +99,17 @@ author:
   github           : "RuiLin0212"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/ruilin0212/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0744-0263"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/id/RuiLIN96/"
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "RuiLIN99486022"
   vine             :
   weibo            :
   xing             :
