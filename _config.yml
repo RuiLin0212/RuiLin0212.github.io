@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Rui LIN"
   avatar           : "Rui.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Hong Kong SAR"
+  bio              : "Ph.D. Student, Electronic and Electrical Engineering, The University of Hong Kong"
+  location         : "CYC806, Pokfulam Road, Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/RuiLin0212"
+  github           : "RuiLin0212"
   google_plus      :
   keybase          :
   instagram        :
