@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Rui LIN"
   avatar           : "profile_rui.png"
-  bio              : "Ph.D. Student,\\Electronic and Electrical Engineering,\\The University of Hong Kong."
+  bio              : "Ph.D. Student,
+  Electronic and Electrical Engineering,
+  The University of Hong Kong."
   location         : "CYC806, Pokfulam Road, Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
