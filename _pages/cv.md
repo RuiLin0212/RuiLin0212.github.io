@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Dept. of Mathematics and Statistics, Wuhan University, 2014-2018
+* B.S. in Dept. of Mathematics and Statistics, Wuhan University, 2014 - 2018
 * Ph.D in Dept. of EEE, The University of Hong Kong, 2018 - Present
 
 <!--Work experience
