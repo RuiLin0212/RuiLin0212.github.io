@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "MATH1853: Linear Algebra, Probability and Statistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
