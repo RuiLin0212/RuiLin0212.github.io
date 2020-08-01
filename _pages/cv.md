@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Dept. of Mathematics and Statistics, Wuhan University, 2014 - 2018
 * Ph.D in Dept. of EEE, The University of Hong Kong, 2018 - Present
-  * Supervisors: [Dr. Ngai Wong][https://www.eee.hku.hk/~nwong/] & [Prof. Graziano Chesi][https://www.eee.hku.hk/~chesi/]
+  * Supervisors: Dr. Ngai Wong & Prof. Graziano Chesi
 
 <!--Work experience
 ======
@@ -29,8 +29,8 @@ Education
 
 Publications
 ======
-[1] Xiangsheng Xiao, Jianxiao Wang, **Rui Lin**, David J. Hill, Chongqing Kang, Large-scale aggregation of prosumers toward strategic bidding in joint energy and regulation markets, Applied Energy, Volume 271, 2020,115159, ISSN 0306-2619.[PDF][https://www.sciencedirect.com/science/article/abs/pii/S0306261920306711]
-[2] Ko, C. Y., **Lin, R.**, Li, S., & Wong, N. (2019). MiSC: mixed strategies crowdsourcing. arXiv preprint arXiv:1905.07394.[PDF][https://arxiv.org/pdf/1905.07394.pdf]
+* Xiangsheng Xiao, Jianxiao Wang, **Rui Lin**, David J. Hill, Chongqing Kang, Large-scale aggregation of prosumers toward strategic bidding in joint energy and regulation markets, Applied Energy, Volume 271, 2020,115159, ISSN 0306-2619.
+* Ko, C. Y., **Lin, R.**, Li, S., & Wong, N. (2019). MiSC: mixed strategies crowdsourcing. arXiv preprint arXiv:1905.07394.
 
 Honors & Awards
 ======
