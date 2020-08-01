@@ -4,17 +4,17 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-fall-teaching-2
 venue: "The University of Hong Kong, Dept. of EEE"
-date: 2015-01-01
+date: 2020-09-01
 location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am a tutor of this undergraduate course, helping with ANY question from course/assignment.
 
-Heading 1
+Tutorial Session
 ======
+Pending ...
 
-Heading 2
+Office Hours
 ======
+Pending ...
 
-Heading 3
-======
