@@ -47,46 +47,25 @@ Skills
 * Languages: Chinese(native), English(fluent), French(conversational)
 * Tools: Jupyter, Latex
 
-<!--Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
-  
-<!--Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>-->
-  
-<!--Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
-  
-<!--Service and leadership
-======
-* Currently signed in to 43 different slack teams-->
 
 Extracurricular Activities
 ======
 * Mentor in Chi Sun College (CSC) postgraduate-undergraduate mentorship programme, Sept.2019 - Aug.2020.
- * Advise undergraduates in school courses and career planning.
+  * Advise undergraduates in school courses and career planning.
 * Volunteer at Aberdeen Kaifong Welfare Association Services Centre (AKA), Sept.2018 - Present.
- * Help primary students who lack educational resources to learn English.
+  * Help primary students who lack educational resources to learn English.
 * Community immersion - The present situation of intangible cultural heritage in Xi'an, Jul.2016.
- * Win the 1st prize in the Department of Mathematics and Statistics.
- * Make out a short documentary to advocate the public to ppay more attention to intangible cultural.
+  * Win the 1st prize in the Department of Mathematics and Statistics.
+  * Make out a short documentary to advocate the public to ppay more attention to intangible cultural.
 * Monitor of French-Chinese Learning Class in Wuhan University, Jun.2015.
- * Organize activities for students helping them learn more about French culture during the  language learning process.
- * Help the Professor to check the teaching progress and make time arrangement.
+  * Organize activities for students helping them learn more about French culture during the  language learning process.
+  * Help the Professor to check the teaching progress and make time arrangement.
 * Publicity Coordinator in the Department of Mathematics and Statistics, Wuhan University, Jun.2014 - Jun.2015.
- * Organize team-building activities for students.
- * Document and conduct propaganda on exciting things in students' life.
+  * Organize team-building activities for students.
+  * Document and conduct propaganda on exciting things in students' life.
 * Community immersion - The present situation of independent bookstores in Wuhan, Sep.2015.
- * Win the second prize in the Department of Mathematics and Statistics, Wuhan University.
- * Write a report about the development of the independent bookstores in Wuhan.
+  * Win the second prize in the Department of Mathematics and Statistics, Wuhan University.
+  * Write a report about the development of the independent bookstores in Wuhan.
 * Community immersion - A revisit to my high school.
- * Win the third prize in Wuhan University.
- * Advise high school students to help them choose the universities that most suitable for them.
+  * Win the third prize in Wuhan University.
+  * Advise high school students to help them choose the universities that most suitable for them.
