@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "MiSC: Mixed Strategies Crowdsourcing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2019-05-09-MiSC
+excerpt: 'This paper proposes mixed strategies for Crowdsourcing.'
+date: 2019-05-09
+venue: 'IJCAI 2019'
+paperurl: 'https://arxiv.org/pdf/1905.07394.pdf'
+citation: 'Ko, C. Y., **Lin, R.**, Li, S., & Wong, N. (2019). &quot;MiSC: mixed strategies crowdsourcing.&quot; <i>arXiv preprint arXiv:1905.07394</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper proposes mixed strategies for Crowdsourcing. The proposed MiSC is a versatile framework integrating arbitrary conventional crowdsourcing and tensor completion techniques.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Ko, C. Y., **Lin, R.**, Li, S., & Wong, N. (2019). MiSC: mixed strategies crowdsourcing. arXiv preprint arXiv:1905.07394.
