@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Dept. of Mathematics and Statistics, Wuhan University, 2014 - 2018
 * Ph.D in Dept. of EEE, The University of Hong Kong, 2018 - Present
+  * Supervisors: [Dr. Ngai Wong][https://www.eee.hku.hk/~nwong/] & [Prof. Graziano Chesi][https://www.eee.hku.hk/~chesi/]
 
 <!--Work experience
 ======
@@ -25,6 +26,20 @@ Education
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub-->
+
+Publications
+======
+[1] Xiangsheng Xiao, Jianxiao Wang, **Rui Lin**, David J. Hill, Chongqing Kang, Large-scale aggregation of prosumers toward strategic bidding in joint energy and regulation markets, Applied Energy, Volume 271, 2020,115159, ISSN 0306-2619.[PDF][https://www.sciencedirect.com/science/article/abs/pii/S0306261920306711]
+[2] Ko, C. Y., **Lin, R.**, Li, S., & Wong, N. (2019). MiSC: mixed strategies crowdsourcing. arXiv preprint arXiv:1905.07394.[PDF][https://arxiv.org/pdf/1905.07394.pdf]
+
+Honors & Awards
+======
+* Third-Class Freshmen Scholarship in Wuhan University, Dec.2014.
+* Excellent Legue Member in Department of Mathematics and Statistics, Wuhan University, Apr.2015.
+* Scholarship in the French-Chinese Language Learning Class in Wuhan University, Sept.2015.
+* Excellent Exchange Student Scholarship in Cambridge University, Feb.2016.
+* Scholarship in the French-Chinses Language Learning Class in Wuhan University, Oct.2016.
+* Second Prize in the Mathematical Contest in Modeling (MCM), Apr.2017.
 
 Skills
 ======
