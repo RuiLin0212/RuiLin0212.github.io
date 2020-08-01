@@ -14,6 +14,6 @@ Tutorial Session
 ======
 16,23,30 Sept: JLG03 (11:30 - 12:20) & JLG04 (12:30 - 14:20) & MB122 (14:30 - 16:20)
 
-Office Hours
+Office Hour
 ======
 Tuesday 13:30 - 15:30, Rm 806 Chow Yei Ching Building

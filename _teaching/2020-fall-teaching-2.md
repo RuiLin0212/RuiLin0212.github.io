@@ -14,7 +14,7 @@ Tutorial Session
 ======
 Pending ...
 
-Office Hours
+Office Hour
 ======
 Pending ...
 
